@@ -1,0 +1,59 @@
+/****************************** TAG SELECTORS ****************************/
+
+body{
+    background-color: #F5EAEA;
+}
+hr{
+    border-color: #F16767;
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 0px;
+    width: 7%;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    color: #F16767;
+}
+h3{
+    color: #F16767;
+}
+
+/****************************** CLASS SELECTORS ****************************/
+
+.profile{
+    border-radius: 50%;
+}
+
+.profile:hover{
+    height: 300px;
+    width: 300px;
+}
+
+/******************************* ID SELECTORS *****************************/
+
+/*
+
+#profile{
+    border_radius: 50%;
+}
+
+*/
+
+/********************************** NOTES **********************************/
+
+/*
+    Syntax:
+    selector{ property: value;}
+
+    selector -> who?
+    property -> what?
+    value -> how?
+
+    ID VS CLASS SELECTORS?
+    * you can define same class name in multiple tags but you cannot define same id name in different 
+    tags, it should be unique.
+    * 
+*/
