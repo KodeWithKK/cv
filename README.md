@@ -1,2 +1,2 @@
 # cv
-My CV Created using HTML.
+My CV Created using HTML and CSS.
